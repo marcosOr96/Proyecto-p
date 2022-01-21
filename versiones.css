@@ -12,6 +12,17 @@ a{
 nav{
     border-style: solid;
     color:mediumvioletred;
+    margin: 2%;
     padding: 0.5%;
     text-align: right;
+}
+main{
+    border-style: double;
+    text-align: center;
+    margin: 5%;
+    background-color: olivedrab;
+    text-transform: uppercase;
+}
+p{
+    color: brown;
 }
