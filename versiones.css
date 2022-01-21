@@ -22,7 +22,23 @@ main{
     margin: 5%;
     background-color: olivedrab;
     text-transform: uppercase;
+    width: 40%;
+    float: left;
+    display: inline;
 }
-p{
+.d1{
     color: brown;
+}
+aside{
+    text-align: center;
+    border-style: groove;
+    width: 40%;
+    display: inline;
+    float: right;
+    background-color: chartreuse;
+}
+.d2{
+    border-style: double;
+    background-color: cornsilk;
+
 }
