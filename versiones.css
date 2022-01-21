@@ -6,3 +6,12 @@ header{
     border-style: solid;
     color: black;
 }
+a{
+    color: red;
+}
+nav{
+    border-style: solid;
+    color:mediumvioletred;
+    padding: 0.5%;
+    text-align: right;
+}
